@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag2 on Game Guides</title>
-    <link>http://localhost:2108/tags/tag2/</link>
+    <link>http://localhost:9585/tags/tag2/</link>
     <description>Recent content in Tag2 on Game Guides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:2108/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:9585/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing My Theory</title>
-      <link>http://localhost:2108/posts/testing-my-theory/</link>
+      <link>http://localhost:9585/posts/testing-my-theory/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:2108/posts/testing-my-theory/</guid>
+      <guid>http://localhost:9585/posts/testing-my-theory/</guid>
       <description>Testing My Theory I don&amp;rsquo;t know what the hell is going on </description>
     </item>
   </channel>

@@ -3,7 +3,7 @@ canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
 
-theme         = "BlogRa"
+theme         = "blogra"
 languageCode  = "en-us"
 title         = "Game Guides"
 

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ff7 on Game Guides</title>
-    <link>http://localhost:2108/tags/ff7/</link>
+    <link>http://localhost:9585/tags/ff7/</link>
     <description>Recent content in Ff7 on Game Guides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:2108/tags/ff7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:9585/tags/ff7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Beginning</title>
-      <link>http://localhost:2108/games/final-fantasy-vii-rebirth/the-beginning/</link>
+      <link>http://localhost:9585/games/final-fantasy-vii-rebirth/the-beginning/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:2108/games/final-fantasy-vii-rebirth/the-beginning/</guid>
+      <guid>http://localhost:9585/games/final-fantasy-vii-rebirth/the-beginning/</guid>
       <description>The Beginning abc la xyz hahahahaha</description>
     </item>
     <item>
       <title>The Second</title>
-      <link>http://localhost:2108/games/final-fantasy-vii-rebirth/the-second/</link>
+      <link>http://localhost:9585/games/final-fantasy-vii-rebirth/the-second/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:2108/games/final-fantasy-vii-rebirth/the-second/</guid>
+      <guid>http://localhost:9585/games/final-fantasy-vii-rebirth/the-second/</guid>
       <description>The second abc xyz</description>
     </item>
   </channel>
