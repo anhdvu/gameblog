@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag1 on Game Guides</title>
+    <link>http://localhost:2108/tags/tag1/</link>
+    <description>Recent content in Tag1 on Game Guides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:2108/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing My Theory</title>
+      <link>http://localhost:2108/posts/testing-my-theory/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/testing-my-theory/</guid>
+      <description>Testing My Theory I don&amp;rsquo;t know what the hell is going on </description>
+    </item>
+  </channel>
+</rss>

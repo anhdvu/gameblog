@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevRa on Game Guides</title>
+    <link>http://localhost:2108/</link>
+    <description>Recent content in DevRa on Game Guides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:2108/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing My Theory</title>
+      <link>http://localhost:2108/posts/testing-my-theory/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/testing-my-theory/</guid>
+      <description>Testing My Theory I don&amp;rsquo;t know what the hell is going on </description>
+    </item>
+    <item>
+      <title>The Beginning</title>
+      <link>http://localhost:2108/games/final-fantasy-vii-rebirth/the-beginning/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/games/final-fantasy-vii-rebirth/the-beginning/</guid>
+      <description>The Beginning abc la xyz hahahahaha</description>
+    </item>
+    <item>
+      <title>The best heroes for every role in 7.35c</title>
+      <link>http://localhost:2108/posts/dota-2/best-heroes-every-role-7.35c/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/dota-2/best-heroes-every-role-7.35c/</guid>
+      <description>The Beginning abc la xyz hahahahaha</description>
+    </item>
+    <item>
+      <title>The Second</title>
+      <link>http://localhost:2108/games/final-fantasy-vii-rebirth/the-second/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/games/final-fantasy-vii-rebirth/the-second/</guid>
+      <description>The second abc xyz</description>
+    </item>
+    <item>
+      <title>Chords for Happy Birthday</title>
+      <link>http://localhost:2108/posts/chords-for-happy-birthday/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/chords-for-happy-birthday/</guid>
+      <description> C G Happy birthday to you G C Happy birthday to you C F Happy birthday dear BlogRa C Bdim C Happy birthday to you </description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:2108/posts/markdown-syntax/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:2108/posts/placeholder-text/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&#xA;pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:2108/posts/rich-content/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Write Math Equations</title>
+      <link>http://localhost:2108/posts/write-math-equations/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/write-math-equations/</guid>
+      <description>Write math equations with ease. At first enable math:true in front matter.&#xA;Then write this-&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ to produce this-&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
+    </item>
+    <item>
+      <title>Make Diagrams with Mermaid</title>
+      <link>http://localhost:2108/posts/make-diagrams-with-mermaid/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/make-diagrams-with-mermaid/</guid>
+      <description>Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-&#xA;graph TD A[Client] --&amp;gt; B[Load Balancer] B --&amp;gt; C[Server01] B --&amp;gt; D[Server02] to generate diagrams like this-</description>
+    </item>
+    <item>
+      <title>Chapter 2</title>
+      <link>http://localhost:2108/sections/python-tutorial/chapter-2/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/sections/python-tutorial/chapter-2/</guid>
+      <description>This is Chapter 2.</description>
+    </item>
+    <item>
+      <title>Chapter 1</title>
+      <link>http://localhost:2108/sections/python-tutorial/chapter-1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/sections/python-tutorial/chapter-1/</guid>
+      <description>This is Chapter 1.</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:2108/posts/emoji-support/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:2108/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:2108/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2108/contact/</guid>
+      <description>Click me to reveal my email. Don&amp;rsquo;t spam or I will kidnap your cat.</description>
+    </item>
+  </channel>
+</rss>
