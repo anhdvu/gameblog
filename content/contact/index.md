@@ -3,6 +3,6 @@ title: Contact
 layout: single2
 ---
 
-{{<hidden-email>}}
+abc@xyz.com
 
 Don't spam or I will kidnap your cat.
