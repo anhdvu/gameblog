@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ff7 on Game Guides</title>
-    <link>http://localhost:9585/tags/ff7/</link>
+    <link>http://localhost:12481/tags/ff7/</link>
     <description>Recent content in Ff7 on Game Guides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:9585/tags/ff7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:12481/tags/ff7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Third</title>
+      <link>http://localhost:12481/games/final-fantasy-vii-rebirth/the-third/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:12481/games/final-fantasy-vii-rebirth/the-third/</guid>
+      <description>The Video </description>
+    </item>
     <item>
       <title>The Beginning</title>
-      <link>http://localhost:9585/games/final-fantasy-vii-rebirth/the-beginning/</link>
+      <link>http://localhost:12481/games/final-fantasy-vii-rebirth/the-beginning/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:9585/games/final-fantasy-vii-rebirth/the-beginning/</guid>
+      <guid>http://localhost:12481/games/final-fantasy-vii-rebirth/the-beginning/</guid>
       <description>The Beginning abc la xyz hahahahaha</description>
     </item>
     <item>
       <title>The Second</title>
-      <link>http://localhost:9585/games/final-fantasy-vii-rebirth/the-second/</link>
+      <link>http://localhost:12481/games/final-fantasy-vii-rebirth/the-second/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:9585/games/final-fantasy-vii-rebirth/the-second/</guid>
+      <guid>http://localhost:12481/games/final-fantasy-vii-rebirth/the-second/</guid>
       <description>The second abc xyz</description>
     </item>
   </channel>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Admin on Game Guides</title>
-    <link>http://localhost:9585/admin/</link>
+    <link>http://localhost:12481/admin/</link>
     <description>Recent content in Admin on Game Guides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:9585/admin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:12481/admin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
