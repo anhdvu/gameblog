@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Game Guides</title>
-    <link>http://localhost:12481/tags/math/</link>
+    <link>http://localhost:5471/tags/math/</link>
     <description>Recent content in Math on Game Guides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:12481/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:5471/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Write Math Equations</title>
-      <link>http://localhost:12481/posts/write-math-equations/</link>
+      <link>http://localhost:5471/posts/write-math-equations/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:12481/posts/write-math-equations/</guid>
+      <guid>http://localhost:5471/posts/write-math-equations/</guid>
       <description>Write math equations with ease. At first enable math:true in front matter.&#xA;Then write this-&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ to produce this-&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
     </item>
   </channel>
